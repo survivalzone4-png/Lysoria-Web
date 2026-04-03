@@ -6,8 +6,8 @@ coverHeight: 432
 
 # 🏡 Règlement
 
-{% content-ref url="../reglement/reglement-general.md" %}
-[reglement-general.md](../reglement/reglement-general.md)
+{% content-ref url="../reglement/reglement-general/" %}
+[reglement-general](../reglement/reglement-general/)
 {% endcontent-ref %}
 
 {% content-ref url="../reglement/reglement-legal.md" %}
