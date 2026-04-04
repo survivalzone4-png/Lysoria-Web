@@ -2,6 +2,8 @@
 description: >-
   Dès que vous prenez votre service (badgeuse activée et présence en jeu), vous
   devez :
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
 ---
 
 # ☎️ Prise de service et implication
