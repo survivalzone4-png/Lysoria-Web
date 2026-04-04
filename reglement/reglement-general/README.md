@@ -13,3 +13,11 @@ _<mark style="color:red;">**Pourquoi l'utiliser ? C'est avant tout un amusement 
 
 _<mark style="color:red;">**Simple à installer, ne prend pas de place sur votre disque dur, utilisez le, si vous avez un soucis avec un joueur, rendez-vous sur le**</mark>_ [<mark style="color:green;">💻 Discord</mark>](/broken/pages/xY93tprXs6hP0vWfxPGh)_<mark style="color:red;">**, montrez nous le "clip" et nous règlerons le problème avec vous.**</mark>_
 
+{% content-ref url="usage-des-entreprises.md" %}
+[usage-des-entreprises.md](usage-des-entreprises.md)
+{% endcontent-ref %}
+
+{% content-ref url="prise-de-service-et-implication.md" %}
+[prise-de-service-et-implication.md](prise-de-service-et-implication.md)
+{% endcontent-ref %}
+
