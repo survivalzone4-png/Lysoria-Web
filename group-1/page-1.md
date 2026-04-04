@@ -6,16 +6,16 @@ coverHeight: 432
 
 # 🏡 Règlement
 
-{% content-ref url="../reglement/reglement-general/" %}
-[reglement-general](../reglement/reglement-general/)
+{% content-ref url="../reglement/reglement-legal/" %}
+[reglement-legal](../reglement/reglement-legal/)
 {% endcontent-ref %}
 
-{% content-ref url="../reglement/reglement-legal.md" %}
-[reglement-legal.md](../reglement/reglement-legal.md)
+{% content-ref url="../reglement/reglement-general.md" %}
+[reglement-general.md](../reglement/reglement-general.md)
 {% endcontent-ref %}
 
-{% content-ref url="../reglement/reglement-illegal.md" %}
-[reglement-illegal.md](../reglement/reglement-illegal.md)
+{% content-ref url="../reglement/reglement-illegal/" %}
+[reglement-illegal](../reglement/reglement-illegal/)
 {% endcontent-ref %}
 
 {% content-ref url="../reglement/reglement-911.md" %}

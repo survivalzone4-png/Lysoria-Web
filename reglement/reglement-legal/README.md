@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
 ---
 
-# 📒 Reglement General
+# 📗 Reglement Legal
 
 ### <mark style="color:red;">Un petit conseil avant de commencer</mark> <a href="#petit-conseil-avant-de-commencer-votre-aventure" id="petit-conseil-avant-de-commencer-votre-aventure"></a>
 
@@ -19,5 +19,13 @@ _<mark style="color:red;">**Simple à installer, ne prend pas de place sur votre
 
 {% content-ref url="prise-de-service-et-implication.md" %}
 [prise-de-service-et-implication.md](prise-de-service-et-implication.md)
+{% endcontent-ref %}
+
+{% content-ref url="comptabilite-et-transparence.md" %}
+[comptabilite-et-transparence.md](comptabilite-et-transparence.md)
+{% endcontent-ref %}
+
+{% content-ref url="activite-and-evenements.md" %}
+[activite-and-evenements.md](activite-and-evenements.md)
 {% endcontent-ref %}
 
