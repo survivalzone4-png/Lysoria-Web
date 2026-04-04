@@ -2,6 +2,8 @@
 description: >-
   Il est strictement interdit d’exploiter une entreprise à des fins personnelles
   ou illégales, notamment :
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
 ---
 
 # ⛔USAGE DES ENTREPRISES
