@@ -18,7 +18,7 @@ coverHeight: 432
 [reglement-illegal.md](../reglement/reglement-illegal.md)
 {% endcontent-ref %}
 
-{% content-ref url="../reglement/reglement-911.md" %}
-[reglement-911.md](../reglement/reglement-911.md)
+{% content-ref url="../reglement/reglement-911/" %}
+[reglement-911](../reglement/reglement-911/)
 {% endcontent-ref %}
 
