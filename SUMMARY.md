@@ -6,7 +6,12 @@
 
 * [🏡 Règlement](group-1/page-1.md)
 * [📒 Reglement General](<reglement/reglement-general/README (1).md>)
-  * [🌎  Règlement HRP](reglement/reglement-general/reglement-hrp.md)
+  * [📜 Règlement HRP](reglement/reglement-general/reglement-hrp.md)
+  * [🎟️  Règlement Ticket](reglement/reglement-general/reglement-ticket.md)
+  * [📚 Lexique RP](reglement/reglement-general/lexique-rp.md)
+  * [🎲 Notions de base RP](reglement/reglement-general/notions-de-base-rp.md)
+  * [🌎  Zone Safe](reglement/reglement-general/zone-safe.md)
+  * [📗 Règles Basiques](reglement/reglement-general/regles-basiques.md)
 * [📗 Reglement Legal](reglement/reglement-general/README.md)
   * [⛔USAGE DES ENTREPRISES](reglement/reglement-general/usage-des-entreprises.md)
   * [☎️ Prise de service et implication](reglement/reglement-general/prise-de-service-et-implication.md)
