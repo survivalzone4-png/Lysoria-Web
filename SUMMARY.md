@@ -5,7 +5,8 @@
 ## 📓 Reglement
 
 * [🏡 Règlement](group-1/page-1.md)
-* [📒 Reglement General](reglement/reglement-legal.md)
+* [📒 Reglement General](<reglement/reglement-general/README (1).md>)
+  * [🌎  Règlement HRP](reglement/reglement-general/reglement-hrp.md)
 * [📗 Reglement Legal](reglement/reglement-general/README.md)
   * [⛔USAGE DES ENTREPRISES](reglement/reglement-general/usage-des-entreprises.md)
   * [☎️ Prise de service et implication](reglement/reglement-general/prise-de-service-et-implication.md)

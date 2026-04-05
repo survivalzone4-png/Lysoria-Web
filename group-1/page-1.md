@@ -10,8 +10,8 @@ coverHeight: 432
 [reglement-general](../reglement/reglement-general/)
 {% endcontent-ref %}
 
-{% content-ref url="../reglement/reglement-legal.md" %}
-[reglement-legal.md](../reglement/reglement-legal.md)
+{% content-ref url="../reglement/reglement-general/README (1).md" %}
+[README (1).md](<../reglement/reglement-general/README (1).md>)
 {% endcontent-ref %}
 
 {% content-ref url="../reglement/reglement-illegal.md" %}
