@@ -38,7 +38,7 @@ Seuls les véhicules prévus à cet effet doivent être utilisés pour les dépl
 
 <summary> <span data-gb-custom-inline data-tag="emoji" data-code="1f3ea">🏪</span> <mark style="color:orange;"><strong>Restaurants</strong></mark></summary>
 
-Interdiction de vendre plus de 5 menus par personne sans contrat de parteneriat.
+Interdiction de vendre plus de 15 menus par personne sans contrat de parteneriat.
 
 </details>
 
