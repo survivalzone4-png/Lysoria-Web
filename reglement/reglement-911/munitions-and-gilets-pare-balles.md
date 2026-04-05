@@ -2,6 +2,9 @@
 description: >-
   Par souci de cohérence RP, chaque agent ne peut transporter que l’équipement
   suivant sur lui :
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 346
 ---
 
 # MUNITIONS & GILETS PARE-BALLES

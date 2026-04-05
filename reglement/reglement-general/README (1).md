@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 353
+---
+
 # 📒 Reglement General
 
 ### <mark style="color:red;">Un petit conseil avant de commencer</mark> <a href="#petit-conseil-avant-de-commencer-votre-aventure" id="petit-conseil-avant-de-commencer-votre-aventure"></a>

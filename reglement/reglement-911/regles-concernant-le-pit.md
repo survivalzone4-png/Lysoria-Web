@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 346
+---
+
 # Règles concernant le PIT
 
 Il est <mark style="color:purple;">**strictement interdit**</mark> d’effectuer une manœuvre de PIT sans formation validée.

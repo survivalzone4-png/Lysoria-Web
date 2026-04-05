@@ -1,6 +1,7 @@
 ---
 cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 400
 ---
 
 # 📗 Reglement Legal

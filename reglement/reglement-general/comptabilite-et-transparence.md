@@ -4,6 +4,7 @@ description: >-
   devez :
 cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 340
 ---
 
 # ? Comptabilité et transparence

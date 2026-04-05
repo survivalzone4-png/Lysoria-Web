@@ -1,6 +1,7 @@
 ---
-cover: /broken/files/vikCKDJfC5bprSCTTKk9
+cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 339
 ---
 
 # 🎲 Notions de base RP

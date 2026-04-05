@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 361
+---
+
 # Nombre de véhicules autorisés en poursuite (hélicoptères inclus)
 
 <details>

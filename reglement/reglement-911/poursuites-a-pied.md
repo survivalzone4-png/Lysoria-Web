@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 359
+---
+
 # POURSUITES À PIED
 
 Lors d’une poursuite à pied, vous devez <mark style="color:purple;">**toujours laisser un temps de jeu cohérent**</mark> avant toute action.

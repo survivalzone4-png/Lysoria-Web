@@ -1,7 +1,8 @@
 ---
 description: Tout sur le Règlement HRP
-cover: /broken/files/6Rs95H3HtUeum0Qwldms
+cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 328
 ---
 
 # 📜 Règlement HRP

@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 345
+---
+
 # UTILISATION DE LA FORCE
 
 <details>

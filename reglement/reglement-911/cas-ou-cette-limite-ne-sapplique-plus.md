@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 357
+---
+
 # Cas où cette limite ne s’applique plus
 
 <details>

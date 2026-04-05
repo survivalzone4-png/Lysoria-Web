@@ -4,6 +4,7 @@ description: >-
   devez :
 cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 373
 ---
 
 # RÈGLES GÉNÉRALES ILLÉGALES

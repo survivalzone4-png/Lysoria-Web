@@ -1,7 +1,7 @@
 ---
 cover: ../.gitbook/assets/Logo-new.png
 coverY: 0
-coverHeight: 432
+coverHeight: 346
 ---
 
 # 🏡 Règlement

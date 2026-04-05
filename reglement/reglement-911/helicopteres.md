@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 358
+---
+
 # HÉLICOPTÈRES
 
 La durée maximale de vol d’un hélicoptère est fixée à <mark style="color:purple;">**15 minutes.**</mark>

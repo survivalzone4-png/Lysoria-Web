@@ -1,6 +1,7 @@
 ---
-cover: /broken/files/FLbnpMobZLctfRj6HfTZ
+cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 336
 ---
 
 # 📚 Lexique RP

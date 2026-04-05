@@ -1,6 +1,7 @@
 ---
-cover: /broken/files/tmKBYxQ7WYkNkOyQH3oy
+cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 355
 ---
 
 # 🌎  Zone Safe

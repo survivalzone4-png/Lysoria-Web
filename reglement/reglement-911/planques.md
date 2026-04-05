@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 344
+---
+
 # PLANQUES
 
 Durée maximale : <mark style="color:purple;">**15 minutes.**</mark>

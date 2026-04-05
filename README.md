@@ -1,7 +1,7 @@
 ---
 cover: .gitbook/assets/Logo-new.png
 coverY: 0
-coverHeight: 517
+coverHeight: 370
 layout:
   width: default
   cover:

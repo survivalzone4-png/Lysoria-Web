@@ -4,6 +4,7 @@ description: >-
   devez :
 cover: ../../.gitbook/assets/Logo-new.png
 coverY: 0
+coverHeight: 360
 ---
 
 # INTRODUCTION & ESPRIT DU RP

@@ -1,3 +1,9 @@
+---
+cover: ../../.gitbook/assets/Logo-new.png
+coverY: 0
+coverHeight: 346
+---
+
 # FEAR QUARTIERS / ZONES SENSIBLES
 
 Le <mark style="color:purple;">**Fear Quartier**</mark> doit être respecté dans **tous** les quartiers et zones considérés comme sensibles.
