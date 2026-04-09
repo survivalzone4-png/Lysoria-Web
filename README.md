@@ -1,31 +1,9 @@
 ---
 cover: .gitbook/assets/Logo-new.png
 coverY: 0
-coverHeight: 370
-layout:
-  width: default
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
-  tags:
-    visible: true
+coverHeight: 347
 ---
 
-# 🏡 Accueil
+# LYSORIA
 
-{% content-ref url="group-1/page-1.md" %}
-[page-1.md](group-1/page-1.md)
-{% endcontent-ref %}
-
+<figure><img src=".gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>

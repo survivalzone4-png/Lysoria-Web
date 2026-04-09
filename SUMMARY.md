@@ -1,16 +1,17 @@
 # Table of contents
 
-* [🏡 Accueil](README.md)
+* [LYSORIA](README.md)
+* [🏡 Accueil](<README (1).md>)
 
 ## 📓 Reglement
 
 * [🏡 Règlement](group-1/page-1.md)
 * [📒 Reglement General](<reglement/reglement-general/README (1).md>)
   * [📜 Règlement HRP](reglement/reglement-general/reglement-hrp.md)
-  * [🎟️  Règlement Ticket](reglement/reglement-general/reglement-ticket.md)
+  * [🎟️ Règlement Ticket](reglement/reglement-general/reglement-ticket.md)
   * [📚 Lexique RP](reglement/reglement-general/lexique-rp.md)
   * [🎲 Notions de base RP](reglement/reglement-general/notions-de-base-rp.md)
-  * [🌎  Zone Safe](reglement/reglement-general/zone-safe.md)
+  * [🌎 Zone Safe](reglement/reglement-general/zone-safe.md)
   * [📗 Règles Basiques](reglement/reglement-general/regles-basiques.md)
 * [📗 Reglement Legal](reglement/reglement-general/README.md)
   * [⛔USAGE DES ENTREPRISES](reglement/reglement-general/usage-des-entreprises.md)
@@ -29,7 +30,7 @@
   * [GUERRES & TERRITOIRES](reglement/reglement-illegal/guerres-and-territoires.md)
   * [EMS & RIPOUX](reglement/reglement-illegal/ems-and-ripoux.md)
   * [SANCTIONS](reglement/reglement-illegal/sanctions.md)
-* [📘  Reglement 911](reglement/reglement-911/README.md)
+* [📘 Reglement 911](reglement/reglement-911/README.md)
   * [UTILISATION DE LA FORCE](reglement/reglement-911/utilisation-de-la-force.md)
   * [Règles de sommations](reglement/reglement-911/regles-de-sommations.md)
   * [MUNITIONS & GILETS PARE-BALLES](reglement/reglement-911/munitions-and-gilets-pare-balles.md)
